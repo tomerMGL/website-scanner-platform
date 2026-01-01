@@ -60,13 +60,13 @@ A comprehensive website performance analyzer that leverages Google's Lighthouse 
 
 ## 📸 Screenshots
 
-<!-- Add screenshots here -->
 - Main scanning interface
-![Home Page](./public/screenshots/home.png)
+<img src="./public/screenshots/home.png" width="500">
 - Detailed performance metrics
-![Scanning](./public//screenshots/report.png)
+<img src="./public//screenshots/report.png" width="150">
 - PDF report example
-![Scanning](./public//screenshots/resukt.png)
+<img src="./public//screenshots/resukt.png" width="500">
+
 
 ## 🚀 Quick Start
 
